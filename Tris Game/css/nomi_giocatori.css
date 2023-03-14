@@ -1,0 +1,104 @@
+body
+{
+  background-color: green;
+}
+.benvenuti
+{
+  position: relative;
+  text-align: center;
+  font-size: 60px;
+  top:-30px;
+}
+.giocatore
+{
+  position: relative;
+  text-align: center;
+  font-size: 40px;
+}
+.input
+{
+  position: relative;
+  left: 450px;
+  height: 40px;
+  width: 300px;
+  font-size: 30px;
+  text-align: center;
+}
+.g1{top:-60px;}
+.g2{top:-110px;}
+.i1{top:-90px;}
+.i2{top:-140px;}
+
+.partite
+{
+  position: relative;
+  text-align: center;
+  font-size: 40px;
+  top: -160px;
+}
+.partite_i
+{
+  position: relative;
+  top:-190px;
+  left: 450px;
+  height: 40px;
+  width: 300px;
+  font-size: 30px;
+  text-align: center;
+}
+.avviso1
+{
+  position: absolute;
+  bottom: 340px;
+  left:800px;
+  font-size: 40px;
+  color: red;
+}
+.avviso2
+{
+  position: absolute;
+  bottom: 215px;
+  left:800px;
+  font-size: 40px;
+  color: red;
+}
+.avviso3
+{
+  position: absolute;
+  bottom: 80px;
+  left:800px;
+  font-size: 40px;
+  color: red;
+}
+.avviso4
+{
+  position: absolute;
+  bottom: 0px;
+  left:800px;
+  font-size: 40px;
+  color: #0D471F;
+}
+.verifica
+{
+  position: relative;
+  top:-100px;
+  left: 140px;
+  height: 60px;
+  width: 300px;
+  font-size: 30px;
+}
+.pulsante_inizia
+{
+  position: relative;
+  top: 0px;
+  left: -160px;
+  height: 60px;
+  width: 300px;
+  font-size: 30px;
+  visibility: hidden;
+}
+.Tris_link
+{
+  text-decoration: none;
+  color: black;
+}
